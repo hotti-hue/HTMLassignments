@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <h1> Metro Beauty SPA </h1>
+        <h2> services provided 24 hr </h2>
+        <body>
+            <table border="10" celpandig="g" celspacing="4">
+                <tr>
+                    <th> Menicure and Pedicure <br> <br> <br> </th>
+                    <th> Nail art and design <br> <br> <br> </th>
+                </tr>
+                <tr>
+                    <th> Nail polish application <br> <br> <br> </th>
+                    <th> Nail care treatment <br> <br> <br> </th>
+                </tr>
+                <tr>
+                    <th> Nail extension and Gels <br> <br> <br> </th>
+                    <th> Hands and foot massage <br> <br> <br> </th>
+                </tr>
+            </body>
+            </html> 
